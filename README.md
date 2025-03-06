@@ -1,4 +1,4 @@
-# 🍒 KittyKnight - Jogo Platformer com PgZero
+# 🍒 KittenKnight - Jogo Platformer com PgZero
 
 Esse é um projeto super divertido de jogo platformer feito em Python usando PgZero! O objetivo? Coletar todas as cerejas enquanto desvia de inimigos travessos que patrulham o cenário! 
 
